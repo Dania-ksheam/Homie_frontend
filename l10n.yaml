@@ -1,0 +1,9 @@
+arb-dir: lib/l10n
+template-arb-file: intl_ar.arb
+suppress-missing-metadata: true
+output-localization-file: app_localizations.dart
+nullable-getter: false
+
+
+
+
